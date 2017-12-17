@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SborIliProizvedenie", "SborIliProizvedenie\SborIliProizvedenie.csproj", "{3891D13C-7FC9-41F8-9F4B-4F0E549D066F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "triangle", "triangle\triangle.csproj", "{E69FE7DB-1645-4395-92AD-027478F50B1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parichnaNagrada", "parichnaNagrada\parichnaNagrada.csproj", "{BB0F00E5-9F86-4FB4-A7F5-29180F461B91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "plodoviKokteili", "plodoviKokteili\plodoviKokteili.csproj", "{EA779030-175B-4142-9B08-4CE701410F91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "svetovenRekord", "svetovenRekord\svetovenRekord.csproj", "{E1034A41-743A-466F-B84C-497DE24E34D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blagotvoritelnaKampaniq", "blagotvoritelnaKampaniq\blagotvoritelnaKampaniq.csproj", "{D9CCFCA7-D582-4337-82BB-195DC923A404}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3891D13C-7FC9-41F8-9F4B-4F0E549D066F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3891D13C-7FC9-41F8-9F4B-4F0E549D066F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3891D13C-7FC9-41F8-9F4B-4F0E549D066F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3891D13C-7FC9-41F8-9F4B-4F0E549D066F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E69FE7DB-1645-4395-92AD-027478F50B1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E69FE7DB-1645-4395-92AD-027478F50B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E69FE7DB-1645-4395-92AD-027478F50B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E69FE7DB-1645-4395-92AD-027478F50B1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB0F00E5-9F86-4FB4-A7F5-29180F461B91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0F00E5-9F86-4FB4-A7F5-29180F461B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0F00E5-9F86-4FB4-A7F5-29180F461B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0F00E5-9F86-4FB4-A7F5-29180F461B91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA779030-175B-4142-9B08-4CE701410F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA779030-175B-4142-9B08-4CE701410F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA779030-175B-4142-9B08-4CE701410F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA779030-175B-4142-9B08-4CE701410F91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1034A41-743A-466F-B84C-497DE24E34D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1034A41-743A-466F-B84C-497DE24E34D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1034A41-743A-466F-B84C-497DE24E34D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1034A41-743A-466F-B84C-497DE24E34D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9CCFCA7-D582-4337-82BB-195DC923A404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9CCFCA7-D582-4337-82BB-195DC923A404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9CCFCA7-D582-4337-82BB-195DC923A404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9CCFCA7-D582-4337-82BB-195DC923A404}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
