@@ -25,9 +25,8 @@ namespace _08.Odd_Even_Sum
             }
             else
             {
-                Console.WriteLine("No, diff = " +
+                Console.WriteLine("No, diff = " + Math.Abs(oddSum - evenSum));
             }
-                Math.Abs(oddSum - evenSum));
         }
     }
 }
